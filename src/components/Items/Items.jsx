@@ -1,4 +1,5 @@
 import React from "react";
+import './Items.css';
 import {Item} from "../Item/Item";
 
 export const Items = (props) => {
