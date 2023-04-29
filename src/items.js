@@ -1,0 +1,42 @@
+export const items = [
+    {
+        id:       1,
+        title:    'Стул серый',
+        image:    'chair-grey.jpeg',
+        desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        category: 'chairs',
+        price:    '1559.99',
+    },
+    {
+        id:       2,
+        title:    'Стол',
+        image:    'table.webp',
+        desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        category: 'chairs',
+        price:    '14879.99',
+    },
+    {
+        id:       3,
+        title:    'Диван',
+        image:    'sofa.jpeg',
+        desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        category: 'sofa',
+        price:    '54963.00',
+    },
+    {
+        id:       4,
+        title:    'Лампа',
+        image:    'wall-light.jpeg',
+        desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        category: 'light',
+        price:    '2500.00',
+    },
+    {
+        id:       5,
+        title:    'Стул белый',
+        image:    'chair-white.jpeg',
+        desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        category: 'chairs',
+        price:    '1780.89',
+    },
+]
