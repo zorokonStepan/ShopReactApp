@@ -5,7 +5,7 @@ export const items = [
         image:    'chair-grey.jpeg',
         desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
         category: 'chairs',
-        price:    '1559.99',
+        price:    '1560.00',
     },
     {
         id:       2,
@@ -13,7 +13,7 @@ export const items = [
         image:    'table.webp',
         desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
         category: 'chairs',
-        price:    '14879.99',
+        price:    '14870.00',
     },
     {
         id:       3,
@@ -21,7 +21,7 @@ export const items = [
         image:    'sofa.jpeg',
         desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
         category: 'sofa',
-        price:    '54963.00',
+        price:    '54960.00',
     },
     {
         id:       4,
@@ -29,7 +29,7 @@ export const items = [
         image:    'wall-light.jpeg',
         desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
         category: 'light',
-        price:    '2500.00',
+        price:    '2540.00',
     },
     {
         id:       5,
@@ -37,6 +37,14 @@ export const items = [
         image:    'chair-white.jpeg',
         desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
         category: 'chairs',
-        price:    '1780.89',
+        price:    '1780.00',
+    },
+    {
+        id:       6,
+        title:    'Комод',
+        image:    'dresser.webp',
+        desc:     'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        category: 'dresser',
+        price:    '8540.00',
     },
 ]
